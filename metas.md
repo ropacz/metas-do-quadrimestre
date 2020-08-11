@@ -3,3 +3,4 @@
 - Organizar minha página de estudos no Notion
 - Criar 5 projetos simples para o GitHub
 - Preencher o Linkedin com os novos cursos
+- Ler 2 livros sobre programação
