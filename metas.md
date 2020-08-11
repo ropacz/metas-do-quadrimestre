@@ -4,3 +4,4 @@
 - Criar 5 projetos simples para o GitHub
 - Preencher o Linkedin com os novos cursos
 - Ler 2 livros sobre programação
+- Fazer um novo curriculo
